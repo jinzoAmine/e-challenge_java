@@ -6,6 +6,6 @@ public class Main {
 
     }
     public void simpleMethode(){
-        System.out.println("hello");
+        System.out.println("Not a hello");
     }
 }
